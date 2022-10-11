@@ -1,0 +1,14 @@
+{
+    "hpBooks": [
+        {
+            "id": 1,
+            "name": "Harry Potter and the Philosopher Stone",
+            "website": "#"
+        },
+        {
+            "id": 2,
+            "name": "Harry Potter and the Chamber of Secrets",
+            "website": "#"
+        }
+    ]
+}
