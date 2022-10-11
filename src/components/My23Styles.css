@@ -1,0 +1,23 @@
+/* These commented lines should be in index.css
+because they are general configurations
+*/
+/* html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+} */
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bg-react{
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+    padding: 2rem;
+}

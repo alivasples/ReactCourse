@@ -12,6 +12,7 @@ import My19AjaxHooks from './components/My19AjaxHooks';
 import My20CustomHooks from './components/My20CustomHooks';
 import My21References from './components/My21References';
 import My22Forms from './components/My22Forms';
+import My23Styles from './components/My23Styles';
 
 function App() {
   return (
@@ -65,6 +66,8 @@ function App() {
       <section> <My21References/> </section>
       <hr />
       <section> <My22Forms/> </section>
+      <hr />
+      <section> <My23Styles/> </section>
       <br /><br /><br /><br /><br />
     </div>
   );
